@@ -1,0 +1,16 @@
+﻿[
+   {
+       "loc": [
+           -77.02509138236509,
+           38.901266183922054
+       ],
+       "id": "n-1",
+       "visible": true,
+       "tags": {
+           "amenity": "drinking_water",
+           "name": "Water fountain",
+           "club": "sport"
+       },
+       "v": 4
+   }
+]

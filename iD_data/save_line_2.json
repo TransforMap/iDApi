@@ -1,0 +1,32 @@
+﻿[
+   {
+       "loc": [
+           -77.02529126143804,
+           38.901185026443386
+       ],
+       "id": "n-2",
+       "visible": true
+   },
+   {
+       "id": "w-1",
+       "visible": true,
+       "nodes": [
+           "n-2",
+           "n-5"
+       ],
+       "v": 6,
+       "tags": {
+           "railway": "subway",
+           "tunnel": "yes",
+           "name": "A subway rail"
+       }
+   },
+   {
+       "loc": [
+           -77.02487846770042,
+           38.90100580334936
+       ],
+       "id": "n-5",
+       "visible": true
+   }
+]
